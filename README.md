@@ -1,7 +1,11 @@
-# README
+🔐 Password Generator
+A lightweight, secure Python application designed to generate strong, randomized passwords. This tool helps users enhance their digital security by creating passwords that are difficult to crack or guess.
 
-[Additional content of the README file should be retained here]
+🚀 Features
+Customizable Length: Generate passwords of any length.
 
-## Screenshots
+Character Diversity: Includes uppercase letters, lowercase letters, numbers, and special symbols.
 
-![Screenshot](screenshots/screenshot.png)
+Secure Randomization: Uses Python’s random or secrets module for high-entropy output.
+
+User-Friendly: Simple command-line interface for quick generation.
